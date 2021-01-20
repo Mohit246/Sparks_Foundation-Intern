@@ -1,4 +1,4 @@
-## Predicting the right class using Decision Tree Algorithm
+# The Sparks Foundation  
+## Graduate Rotational Internship Program
 
-In this project, we have used Decision Tree algorithm(Supervised Machine Learning algorithm) to predict the right class after feeding new data.  
-Also, we have visualized our decision tree using a library called 'Matplotlib'.
+I was selected as a Data Science and Business Analytics Intern at The Sparks-Foundation-Group, and these were the tasks that I had completed during this intermship.
